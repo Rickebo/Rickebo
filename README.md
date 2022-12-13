@@ -1,1 +1,1 @@
-![Rickebo](text.png "RICKEBO")
+![Rickebo](rickebo-dark-blue.png "RICKEBO")
